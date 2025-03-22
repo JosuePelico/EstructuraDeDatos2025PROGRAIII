@@ -19,3 +19,8 @@ eliminarDuplicados(): Elimina los valores duplicados de la lista.
 obtenerTamano(): Retorna el tamaño de la lista.
 
 Este código permite manejar eficientemente una lista enlazada con operaciones básicas y avanzadas. 
+
+
+
+
+https://github.com/JosuePelico/EstructuraDeDatos2025PROGRAIII.git
